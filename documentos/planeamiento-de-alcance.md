@@ -6,7 +6,7 @@ Sistema de fidelización de clientes para un supermercado, el cual permite canje
 
 ## Justificación
 
-Nuestro porfolio de clientes con perfiles similares nos indica que sistemas de este estilo ayudan a la retención en masa de clientes así como aumentar el monto promedio por compra.
+Nuestro porfolio de clientes con perfiles similares nos indica que sistemas de este estilo ayudan a la retención en masa de clientes así como a aumentar la cantidad de productos promedio por cliente.
 
 Nuestra empresa garantiza a los clientes cierto nivel de confiabilidad y soporte a largo plazo del producto finalizado.
 
