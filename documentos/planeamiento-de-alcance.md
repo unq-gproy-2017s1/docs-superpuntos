@@ -2,9 +2,14 @@
 
 ## Breve Descripción
 
-Sistema de fidelización de clientes para un supermercado, el cual permite canjear ciertos productos a cambios de puntos obtenidos por compra.
+
+
+El proyecto constara de un sistema de fidelización de clientes para un supermercado, el cual permite canjear ciertos productos a cambios de puntos obtenidos por compra.
+
 
 ## Justificación
+
+Una gran cantidad de cadenas de supermercados ha experimentado un mayor crecimiento de ventas y clientes gestionando de manera automatica el consumo total de productos, promociones y canjes por parte de los usuarios. Los años de experiencia y graficas creadas a partir de estas estiman que el consumo de los seres humano puede ser persuadido o influenciado a consumir ciertos productos por la "necesidad" misma.
 
 Nuestro porfolio de clientes con perfiles similares nos indica que sistemas de este estilo ayudan a la retención en masa de clientes así como a aumentar la cantidad de productos promedio por cliente.
 
