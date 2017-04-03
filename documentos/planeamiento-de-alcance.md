@@ -28,6 +28,7 @@ El sistema que se propone permitira a los encargados de marketing diseñar, desa
   * Descuentos sobre productos a cambio de puntos
 
 ### Integración con el sistema de facturación existente
+El proyecto estara preparado para iteractuar con el sistema de facturacion y transacciones en uso, la integracion planteada sera transparente al usuario final de la aplicacion, ya sea en la linea de cajas o en los centros de atencion al cliente.
 
 
 

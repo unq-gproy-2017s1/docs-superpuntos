@@ -8,3 +8,11 @@ Documentos de gestion para el ejercicio del proyecto de puntos para supermercado
 ### Documentos
 
 * [Planeamiento de alcance](documentos/planeamiento-de-alcance.md)
+
+
+### Para la siguiente clase leer:
+
+* Definicion de proyecto
+* Caracateristicas del proyecto
+* Fases o ciclos de un proyecto
+* Exitos de un proyecto
