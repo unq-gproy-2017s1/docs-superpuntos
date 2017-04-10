@@ -56,29 +56,37 @@ La experiencia obtenida de los múltiples proyectos en los que trabajo nuestra c
 ## Restricciones y supuestos
 
 * Estabilidad en la red del negocio
-    Ya que el proyecto consta de un sistema de manejo delicado de información, es requerido que la compañía a usarlo brinde un buen servicio de red entre los operarios.
+    - Ya que el proyecto consta de un sistema de manejo delicado de información, es requerido que la compañía a usarlo brinde un buen servicio de red entre los operarios.
+
 
 * Conexión entre sucursales
-    Si bien el sistema proporcionara la capacidad de ser utilizado de forma simultanea en diferentes sucursales, es requerido que se provea alguna forma de conexión entre ellas.
+    - Si bien el sistema proporcionara la capacidad de ser utilizado de forma simultanea en diferentes sucursales, es requerido que se provea alguna forma de conexión entre ellas.
+
 
 * Sistema de facturación existente
-    Nuestro proyecto dependerá del sistema de facturación existente para contabilizar y operar los puntos de manera correcta.
+    - Nuestro proyecto dependerá del sistema de facturación existente para contabilizar y operar los puntos de manera correcta.
+
 
 * El sistema necesita Windows para su ejecución
-    Aprovechando que, actualmente más del 50 % de los usuarios de sistemas operativos siguen eligiendo Windows. El sistema será implementado solo para esta plataforma, dependiendo así del mismo para utilizarlo.
+    - Aprovechando que, actualmente más del 50 % de los usuarios de sistemas operativos siguen eligiendo Windows. El sistema será implementado solo para esta plataforma, dependiendo así del mismo para utilizarlo.
 
 ## Entregables
 
 1. Manual de usuario
+    - Para facilitar el aprendizaje de los operarios del sistema, optamos por crear una guia paso a paso sobre su instalacion, aplicacion y resolucion de problemas tipicos.      
+
 
 2. Capacitación
+    - Ofreceremos jornadas de capacitacion al personal habitado a operar el proyecto. Ya sea, nuevos empleados que requieran integrarse rapidamente al mismo o charlas informativas sobre nuevas caracteristicas.
+
 
 3. Soporte
+    - En caso de que el manual de usuario no resuelva algunos de los problemas del usuario, tendremos abierto un canal de soporte para guiarlo a resolver sus inquietudes y problemas.
+
 
 4. Puesta en producción
+    - Comenzaremos instalando el producto en todas las computadoras de cada sucursal. Ademas verificaremos su optimo funcionamiento durante un periodo de 4 semamas brindandole servicio tecnico y soporte en linea sobre los principales problemas de transicion.
 
 ## Criterio de finalización
-
-* Aumento en la retención de clientes
-
-* Plazo de entrega del sistema cumplido
+El proyeco se considerara finalizado y exitoso cuando el personal este lo suficientemente capacitado como para utilizar el sistema. Se espera que esto resulte en un gran incremento de la retencion efectiva de clientes.
+Por otra parte, el exito del proyecto dependera de la capacidad de terminarlo en el tiempo estimado con las funcionalidades previamente establecidas.
