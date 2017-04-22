@@ -37,7 +37,7 @@ El analisis del riesgo propiamente dicho sera llevado a cabo por el personal de 
 
 ## Manejo de los riesgos
 
-Una vez realizado el analisis de los riesgos, el personal de Gestion de Riesgos se encargara de crear un plan de manejo y monitoreo para cada uno de ellos de manera especifica.
+Una vez realizado el análisis de los riesgos, el personal de Gestión de Riesgos se encargara de crear un plan de manejo y monitoreo para cada uno de ellos de manera especifica.
 
 #### Modelo de manejo y monitoreo de riesgos
 
@@ -45,7 +45,7 @@ Una vez realizado el analisis de los riesgos, el personal de Gestion de Riesgos 
 
 > Establecer una cita semanal con el cliente para resolver dudas
 
-> Generar cercania entre el grupo de trabajo y el cliente
+> Generar cercanía entre el grupo de trabajo y el cliente
 
 > Crear un ambiente de trabajo saludable y visible para el cliente
 
@@ -59,8 +59,8 @@ Una vez realizado el analisis de los riesgos, el personal de Gestion de Riesgos 
 > Observar el avance semanal del proyecto
 
 ##### Como proceder una vez efectuado el riesgo
-> Intentar contactar con el cliente lo mas rapido posible
+> Intentar contactar con el cliente lo mas rápido posible
 
 > Proceder con otros aspectos del proyecto que no sean limitados por la misma causa
 
-Una vez establecido el plan de manejo y monitoreo, el personal de Gestion de Riesgos informara a los grupos de trabajos mas expuestos como proceder para prevenir fuertemente ser afectados y como actuar en caso de que el riesgo se efectue.
+Una vez establecido el plan de manejo y monitoreo, el personal de Gestión de Riesgos informara a los grupos de trabajos mas expuestos como proceder para prevenir fuertemente ser afectados y como actuar en caso de que el riesgo se efectúe.
