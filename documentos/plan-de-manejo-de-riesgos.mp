@@ -64,3 +64,12 @@ Una vez realizado el análisis de los riesgos, el personal de Gestión de Riesgo
 > Proceder con otros aspectos del proyecto que no sean limitados por la misma causa
 
 Una vez establecido el plan de manejo y monitoreo, el personal de Gestión de Riesgos informara a los grupos de trabajos mas expuestos como proceder para prevenir fuertemente ser afectados y como actuar en caso de que el riesgo se efectúe.
+
+
+# Matriz de riesgos
+
+| Riesgo | Descripción | probabilidades de ocurrencia | impacto/costo | exposición | plan de mitigación de cada riesgo | probabilidades de ocurrencia |
+|--------|-------------|------------------------------|---------------|------------|-----------------------------------|------------------------------|
+|        |             |                              |               |            |                                   |                              |
+|        |             |                              |               |            |                                   |                              |
+|        |             |                              |               |            |                                   |                              |
