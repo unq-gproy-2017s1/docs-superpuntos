@@ -68,8 +68,8 @@ Una vez establecido el plan de manejo y monitoreo, el personal de Gestión de Ri
 
 # Matriz de riesgos
 
-| Riesgo | Descripción | probabilidades de ocurrencia | impacto/costo | exposición | plan de mitigación de cada riesgo | probabilidades de ocurrencia |
-|--------|-------------|------------------------------|---------------|------------|-----------------------------------|------------------------------|
-|        |             |                              |               |            |                                   |                              |
-|        |             |                              |               |            |                                   |                              |
-|        |             |                              |               |            |                                   |                              |
+| Riesgo 	| Descripción 	| probabilidades de ocurrencia 	| impacto/costo 	| exposición 	| plan de mitigación de cada riesgo 	| probabilidades de ocurrencia 	|
+|--------	|-------------	|------------------------------	|---------------	|------------	|-----------------------------------	|------------------------------	|
+|        	|             	|                              	|               	|            	|                                   	|                              	|
+|        	|             	|                              	|               	|            	|                                   	|                              	|
+|        	|             	|                              	|               	|            	|                                   	|                              	|
