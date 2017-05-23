@@ -18,6 +18,12 @@ El reporte debe minimamente incluir una descripcción somera del potencial riesg
 
 El objetivo de este informe es poner el potencial problema en conocimiento del personal encargado e iniciar la gestión del mismo; no es necesario que sea excesivamente detallado o tecnico.
 
+Una vez recibido el reporte, el responsable deberá convocar a una reunión con el personal de las areas afectadas junto con los directivos a fin de establecer las consecuencias del riesgo y las posibles vias de accion. A estas medidas pueden ser clasificadas como altas, medias o bajas.
+
+ * ***Alto***:
+ * ***Medio***:
+ * ***Bajo***:
+
 ## Análisis de riesgos
 
 El análisis del riesgo propiamente dicho sera llevado a cabo por el personal de Gestión de Riesgos en colaboración con las areas afectadas por el riesgo. Es responsabilidad de estas ultimas colaborar en el análisis del riesgo y elaboración del Plan de Manejo y Monitoreo.
