@@ -19,7 +19,11 @@ Esta version fue puesta a prueba en una sucursal de la cadena de nuestros client
 
 ### ¿Estamos capacitados para ralizar el desarrollo del proyecto?
 
+Es esperado que este proyecto involucre nuevos desafíos a la hora de integrarlo con el supuesto existente sistema de facturación, como este es el único punto en el que no se tiene experiencia, se cree que no habrá ningún problema mayor en el desarrollo.
+
 ### ¿podemos lograrlo en el tiempo determinado?
+
+Gracias a que nuestros desarrolladores se destacan por su gran capacidad de solución en tiempos más altos que la media podemos dedicarle tiempo a la calidad técnica como en muchas empresas no se puede. Todos cuentan con años de experiencia en el desarrollo de sistemas de este tipo, por lo cual este es el punto más fuerte.
 
 ### entendimiento del negocio
 
