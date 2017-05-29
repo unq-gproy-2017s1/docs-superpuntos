@@ -20,9 +20,9 @@ El objetivo de este informe es poner el potencial problema en conocimiento del p
 
 Una vez recibido el reporte, el responsable deberá convocar a una reunión con el personal de las areas afectadas junto con los directivos a fin de establecer las consecuencias del riesgo y las posibles vias de accion. A estas medidas pueden ser clasificadas como altas, medias o bajas.
 
- * ***Alto***:
- * ***Medio***:
- * ***Bajo***:
+ * ***Alto***: En este caso el responsable deberá consultar la matriz de riesgos para dejar listo el plan de contingencia o mitigación que el riesgo requiera.
+ * ***Medio***: En este caso el responsable podrá decidir si actuar inmediatamente o no en base a la probabilidad del riesgo, en caso de elegir actuar, se podrá convocar a reunión para charlar sobre si es o no factible hacer algo.
+ * ***Bajo***: En este caso la empresa asumirá el riesgo.
 
 ## Análisis de riesgos
 
