@@ -1,4 +1,4 @@
- # Análisis de factibilidad
+# Análisis de factibilidad
 
 Este estudio de factibilidad pretende manifiestar las experiencias, criterios y conocimientos de nuestra empresa que nos capacitan para realizar el proyecto planteado.
 
@@ -7,14 +7,9 @@ Los resultados arrojados por esta version inicial junto con la experiencia previ
 
 ## Factor operativo
 
-Gerencialmente nuestra empresa esta dispuesta a afrontar los costos y riesgos que implica llevar a cabo este proyecto ya que se estima que el mismo tendra un gran impacto en el posicionamiento tanto de la compañia como del cliente en el mercado.
+Gerencialmente nuestra empresa esta dispuesta a afrontar los costos y riesgos que implica llevar a cabo este proyecto ya que se estima que el mismo tendra un significativo impacto en el posicionamiento tanto de la compañia como del cliente en el mercado.
 
 Nuestro comite ha llegado a la conclusion que el proyecto sera mas que viable en terminos operativos y proveera un gran crecimiento profesional lo cual sera beneficioso para el futuro de la compañia. Tambien se han realizado reuniones con una junta directiva representante del cliente y con sus principales accionistas para debatir la importancia del rol que tendran los usuarios finales con respecto a la utilizacion del producto una vez concluido.
-
-### ¿Qué piensan los usuarios de la solución?
-Como mencionamos anteriormente, gracias a la ayuda de la gerencia y directivos altamente capacitados, pudimos implementar una pequeña version capaz de simular algunas de las funcionalidades que al usuario final le interesa corroborar.
-
-Esta version fue puesta a prueba en una sucursal de la cadena de nuestros clientes; los cuales se mostraron satisfechos con esta primera version. Los resultados de esta experiencia nos dotó de valiosas opiniones y sugerencias en cuanto a la usabilidad y viabilidad de nuestra concepcion del producto final.
 
 ## Factibilidad técnica
 
@@ -26,3 +21,14 @@ La experiencia previa de la empresa en proyectos de indole similar junto con los
 
 Estudios preliminares de costos del proyecto establecen un margen de ganancia para nuestra empresa en concordancia con nuestros costos operativos y expectativas habituales.  
 Para mayor detalle, consultar documentacion anexa. 
+
+## Resultados de la vesion de prueba
+
+Como se menciono anteriormente, gracias a la ayuda de la gerencia y directivos altamente capacitados, pudimos implementar una pequeña version capaz de simular algunas de las funcionalidades que al usuario final le interesa corroborar.
+
+Esta version fue puesta a prueba en una sucursal de la cadena de nuestros clientes; los cuales se mostraron satisfechos con esta primera version. Los resultados de esta experiencia nos dotó de valiosas opiniones y sugerencias en cuanto a la usabilidad y viabilidad de nuestra concepcion del producto final.
+
+Desde el punto de vista tecnico pudimos comprobar que es posible realizar una integracion _ad-hoc_ con el sistema de facturacion actualmente en uso en la cadena; los resultados muestran que es posible extraer de la informacion que el programa de facturacion maneja para cada ticket que genera una lista de productos, cantidades y montos asociados a pesar de que dicha funcionalidad nunca fue contemplada por los desarrolladores originales. A partir de este punto nuestro equipo de expertos tecnicos considera que es totalmente posible desarrollar el software que nuestro cliente desea.
+
+En cuanto a las opiniones de los usuarios finales, los principales reclamos fueron que en ocasiones el sistema respondia con lentitud y que el flujo de quitar productos de una compra en progreso resultaba poco intuitivo.  
+Ambos planteos estan siendo analizados por el personal de _User Experience_ y se acordo con el cliente realizar otra instancia de prueba en una sucursal diferente a fin de evaluar las soluciones que propongan. 
