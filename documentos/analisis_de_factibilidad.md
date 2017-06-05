@@ -20,9 +20,10 @@ La experiencia previa de la empresa en proyectos de indole similar junto con los
 ## Factibilidad económica
 
 Estudios preliminares de costos del proyecto establecen un margen de ganancia para nuestra empresa en concordancia con nuestros costos operativos y expectativas habituales.  
-Para mayor detalle, consultar documentacion anexa. 
+Para generar nuestra planilla de costos, se tuvo en cuenta la maxima cantidad de factores posibles que puedan afectar negativa o positivamente las ganancias del proyeto.
+Como por ejemplo cantidad de personas que se involucraran en el desarrollo del proyecto, entre otros. Para mayor entendimiento de nuestras decisiones, consultar la planilla de ganancias anexa en el mismo documento. 
 
-## Resultados de la vesion de prueba
+## Resultados de la version de prueba
 
 Como se menciono anteriormente, gracias a la ayuda de la gerencia y directivos altamente capacitados, pudimos implementar una pequeña version capaz de simular algunas de las funcionalidades que al usuario final le interesa corroborar.
 
